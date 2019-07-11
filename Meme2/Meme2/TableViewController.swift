@@ -14,6 +14,7 @@ class TableViewController: UITableViewController  {
         return SingletonClass.memes
     }
     
+    
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         
